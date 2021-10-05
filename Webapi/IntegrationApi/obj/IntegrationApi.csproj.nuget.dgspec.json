@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Webapi\\IntegrationApi\\IntegrationApi.csproj": {}
+    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\webapi\\integrationapi\\IntegrationApi.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Webapi\\IntegrationApi\\IntegrationApi.csproj": {
+    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\webapi\\integrationapi\\IntegrationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Webapi\\IntegrationApi\\IntegrationApi.csproj",
+        "projectUniqueName": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\webapi\\integrationapi\\IntegrationApi.csproj",
         "projectName": "IntegrationApi",
-        "projectPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Webapi\\IntegrationApi\\IntegrationApi.csproj",
+        "projectPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\webapi\\integrationapi\\IntegrationApi.csproj",
         "packagesPath": "C:\\Users\\endere\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Webapi\\IntegrationApi\\obj\\",
+        "outputPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\webapi\\integrationapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\endere\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -34,8 +34,7 @@
             "cwd": "${workspaceFolder}/consoleapp/controlapp",
             "stopAtEntry": false,
             "console": "internalConsole"
-        },
-       
+        }   
         
     ]
 }
