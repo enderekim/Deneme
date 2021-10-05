@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3a/Ef1ksUgqlj1srrPsjORzTJGvoPlCP1UK6fUPW/Gf8Fi8t/YHGvTskB44k2rGtUpgGPEjcAnJ2T6v3MmXbUQ==",
+  "dgSpecHash": "Ris7WKU/axnWa49nzWIOotIZXze97F/bTog1KwDNfxTYO5CSaWvgk/cxhV9WEdiHOBOyfBpi/tiDTgInEBJN8w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\webapi\\IntegrationApi\\IntegrationApi.csproj",
+  "projectFilePath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Webapi\\IntegrationApi\\IntegrationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\endere\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\endere\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

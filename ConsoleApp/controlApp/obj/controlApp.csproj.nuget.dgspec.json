@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Consolapp\\controlApp\\controlApp.csproj": {}
+    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\consoleapp\\controlapp\\controlApp.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Consolapp\\controlApp\\controlApp.csproj": {
+    "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\consoleapp\\controlapp\\controlApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Consolapp\\controlApp\\controlApp.csproj",
+        "projectUniqueName": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\consoleapp\\controlapp\\controlApp.csproj",
         "projectName": "controlApp",
-        "projectPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Consolapp\\controlApp\\controlApp.csproj",
+        "projectPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\consoleapp\\controlapp\\controlApp.csproj",
         "packagesPath": "C:\\Users\\endere\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\Consolapp\\controlApp\\obj\\",
+        "outputPath": "C:\\Projects\\GitHub\\DenemeGitHub\\GitHubProje1\\GitHubProje1-1\\consoleapp\\controlapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\endere\\AppData\\Roaming\\NuGet\\NuGet.Config",

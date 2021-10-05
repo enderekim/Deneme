@@ -1,0 +1,16 @@
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\bin\Debug\net5.0\controlApp.exe
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\bin\Debug\net5.0\controlApp.deps.json
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\bin\Debug\net5.0\controlApp.runtimeconfig.json
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\bin\Debug\net5.0\controlApp.runtimeconfig.dev.json
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\bin\Debug\net5.0\controlApp.dll
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\bin\Debug\net5.0\ref\controlApp.dll
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\bin\Debug\net5.0\controlApp.pdb
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.csprojAssemblyReference.cache
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.AssemblyInfoInputs.cache
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.AssemblyInfo.cs
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.dll
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\ref\controlApp.dll
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.pdb
+C:\Projects\GitHub\DenemeGitHub\GitHubProje1\GitHubProje1-1\consoleapp\controlapp\obj\Debug\net5.0\controlApp.genruntimeconfig.cache
